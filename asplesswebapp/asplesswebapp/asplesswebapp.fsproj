@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <OutputType>Exe</OutputType>
+    <AssemblyName>Asplesswebapp</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Suave" Version="2.4.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.fs" />
+  </ItemGroup>
+</Project>
