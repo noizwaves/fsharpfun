@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "Microsoft.NETCore.App": {
-      "type": "platform",
-      "version": "2.1.300"
-    }
-  }
-}
